@@ -3,7 +3,7 @@
 **I'm a Software Engineer. My specialty is developing Android and iOS Mobile Apps with React Native.**
 
 
-#### 💬 Find me elsewhere
+#### Find me elsewhere
 
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=[https://www.linkedin.com/in/orodrigogo/](https://www.youtube.com/@orodrigogo))](https://www.youtube.com/@orodrigogo)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orodrigogo/)](https://www.linkedin.com/in/orodrigogo/) 
