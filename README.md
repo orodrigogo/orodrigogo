@@ -14,4 +14,4 @@ Desenvolvedor Full Stack focado em desenvolver aplicações Web utilizando no Fr
 Neste momento, estou trabalhando no desenvolvimento de um Jogo da Memória para dominar os fundamentos do HTML, CSS e Javascript puro sem depender de nenhuma framework. Conheça o projeto: [Memory 🧠](https://github.com/orodrigogo/memory)
 
 ### 📬 Contato
-![LinkedIn](https://www.linkedin.com/in/orodrigogo/)
+- [LinkedIn](https://www.linkedin.com/in/orodrigogo/)
