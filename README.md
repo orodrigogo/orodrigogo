@@ -1,17 +1,13 @@
-# Rodrigo Gonçalves | Desenvolvedor Full Stack
-## 👋 Sobre mim
-Desenvolvedor Full Stack focado em desenvolver aplicações Web utilizando no Front-end React e Node.js no Back-end.
+### Hi, I'm Rodrigo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-### 🛠 Tecnologias
+I'm a Software Engineer. My specialty is developing **Android and iOS Mobile Apps with React Native**. <br>
+I also have knowledge with Web development.
 
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3)
-![Javascript](https://img.shields.io/badge/-Javascript-000?style=flat&logo=javascript)
 
-### Projeto que estou trabalhando no momento
-Neste momento, estou trabalhando no desenvolvimento de um Jogo da Memória para dominar os fundamentos do HTML, CSS e Javascript puro sem depender de nenhuma framework. Conheça o projeto: [Memory 🧠](https://github.com/orodrigogo/memory)
+#### Find me elsewhere
 
-### 📬 Contato
-- [LinkedIn](https://www.linkedin.com/in/orodrigogo/)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=YouTube&logoColor=white&link=[https://www.linkedin.com/in/orodrigogo/](https://www.youtube.com/@orodrigogo))](https://www.youtube.com/@orodrigogo)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orodrigogo/)](https://www.linkedin.com/in/orodrigogo/) 
+[![Gmail Badge](https://img.shields.io/badge/-rodrigorgtic@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorgtic@gmail.com)](mailto:rodrigorgtic@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/orodrigogo/)](https://www.instagram.com/orodrigogo/)
+
